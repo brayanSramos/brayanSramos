@@ -1,5 +1,5 @@
  <p align="center">
- <img src="https://github.com/brayanSramos/brayanSramos/blob/main/braynramos.gif" align="center" alt="GitHub Readme Stats" />
+ <img src="https://github.com/brayanSramos/brayanSramos/blob/main/braynramos.gif" align="center" alt="BraynSramosAnimacion" />
  <h2 align="center">¡Hola!🫡 mi nombre es Brayn Ramos👻</h2>
  <h3 align="center">FullStack developer 👾</h3>
    
@@ -20,25 +20,28 @@ Mis lenguajes favoritos son `JavaScript`, `Python` y `PHP`, es muy importante te
 [![Discord: braynSramos](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.com/channels/@me)
 
 
- 
+## Mis Proyectos 👻
 
+```js
+const Proyectos = [
+  { name: "📙 ", url: "" },
+  { name: "📘 ", url: "" },
+  { name: "📒 ", url: "" },
+  { name: "📓 ", url: "" },
+  { name: "🎁 ", url: "" }
+]
+```
+- 🔭 
+- 🌱 
+- 🤔 
+- 💬 
+- 📫 
+- 😄 
+- ⚡
 
+<img width="200px" src="https://github.com/brayanSramos/brayanSramos/blob/main/brayan.jpeg" alt="BraynSramosanimado" /> 
 
-Here are some ideas to get you started:
-
-![Estadísticas de brayanSramos en GitHub](https://github-readme-stats.vercel.app/api?username=brayanSramos\&rank_icon=github)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<img width="100px" src="https://github.com/brayanSramos/brayanSramos/blob/main/brayan.jpeg" alt="GitHub Readme Stats" />
-👾 01000010 01110010 01100001 01111001 01101110 01110010 01100001 01101101 01101111 01110011 👾
+## 👾 01000010 01110010 01100001 01111001 01101110 01110010 01100001 01101101 01101111 01110011 
 
 ![Lej: braynSramos](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 ![Lej: braynSramos](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
