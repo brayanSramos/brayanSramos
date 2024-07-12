@@ -1,5 +1,5 @@
  <p align="center">
- <img width="100px" src="" align="center" alt="GitHub Readme Stats" />
+ <img src="https://github.com/brayanSramos/brayanSramos/blob/main/braynramos.gif" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">¡Hola!🫡 mi nombre es Brayn Ramos👻</h2>
  <h3 align="center">FullStack developer 👾</h3>
    
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<img width="100px" src="https://github.com/brayanSramos/brayanSramos/blob/main/brayan.jpeg" alt="GitHub Readme Stats" />
 01000010 01110010 01100001 01111001 01101110 01110010 01100001 01101101 01101111 01110011 👾
