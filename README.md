@@ -7,6 +7,13 @@
 > La naturaleza🦥
 > la agricultura🌱
 
+> ![Lej: braynSramos](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+> ![Lej: braynSramos](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+> ![Lej: braynSramos](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+> ![Lej: braynSramos](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
+> ![Lej: braynSramos](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+> ![Lej: braynSramos](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 Mis lenguajes favoritos son `JavaScript`, `Python` y `PHP`, es muy importante tener en cuenta el uso de Frameworks en mis proyectos `React`, `React Native` y `Astro`, y un CMS como WordPress.
 
 [![Twitter: Manz](https://img.shields.io/twitter/follow/Manz?style=social)](https://twitter.com/Manz)
@@ -31,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img width="100px" src="https://github.com/brayanSramos/brayanSramos/blob/main/brayan.jpeg" alt="GitHub Readme Stats" />
-01000010 01110010 01100001 01111001 01101110 01110010 01100001 01101101 01101111 01110011 👾
+👾 01000010 01110010 01100001 01111001 01101110 01110010 01100001 01101101 01101111 01110011 👾
 
 ![Lej: braynSramos](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 ![Lej: braynSramos](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
@@ -135,27 +142,3 @@ Here are some ideas to get you started:
 ![Lej: braynSramos](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
-![Lej: braynSramos]()
