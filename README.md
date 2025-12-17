@@ -1,6 +1,6 @@
  <p align="center">
  <img src="https://github.com/brayanSramos/brayanSramos/blob/main/braynramos.gif" align="center" alt="BraynSramosAnimacion" />
- <h2 align="center">¡Hola!👾 mi nombre es <img width="200px" src="https://github.com/brayanSramos/brayanSramos/blob/main/logo1.3.png" align="center" alt="BraynSramosAnimacion" /> </h2>
+ <h2 align="center">¡Hola!👾 mi nombre es Brayn Ramos </h2>
 
  <h4 align="center">🤖 Amante de la tecnología - 🦥 La naturaleza - 🌱 La agricultura</h4>
 
@@ -25,7 +25,7 @@ Mis lenguajes favoritos son `JavaScript`, `Python` y `PHP`, es muy importante te
 const Proyectos = [
   { name: "🌱AgroSys", url: " github.com/brayanSramos/AgroSys " },
   { name: "📘Web Responsive Design", url: "github.com/brayanSramos/responsivedesign" },
-  { name: "📒 ", url: "" },
+  { name: "📒Sistema de reservas", url: "sistema-reservas-v1-1.vercel.app/" },
   { name: "📓 ", url: "" },
   { name: "🎁 ", url: "" }
 ]
@@ -38,8 +38,7 @@ const Proyectos = [
 - 😄 
 - ⚡
 
-<img width="90px" src="https://raw.githubusercontent.com/brayanSramos/brayanSramos/main/logo-braynSramos1.1.webp" alt="BraynSramosanimado" /> 
- 
+<img width="200px" src="https://github.com/brayanSramos/brayanSramos/blob/main/logo1.3.png" align="center" alt="BraynSramosAnimacion" /> 
 
 ![Lej: braynSramos](https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525)
 ![Lej: braynSramos](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
@@ -143,3 +142,5 @@ const Proyectos = [
 ![Lej: braynSramos](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<img width="90px" src="https://raw.githubusercontent.com/brayanSramos/brayanSramos/main/logo-braynSramos1.1.webp" alt="BraynSramosanimado" />
