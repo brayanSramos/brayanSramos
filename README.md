@@ -143,4 +143,4 @@ const Proyectos = [
 ![Lej: braynSramos](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Lej: braynSramos](https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<img width="90px" src="https://raw.githubusercontent.com/brayanSramos/brayanSramos/main/logo-braynSramos1.1.webp" alt="BraynSramosanimado" />
+<img width="90px" align="center" src="https://raw.githubusercontent.com/brayanSramos/brayanSramos/main/logo-braynSramos1.1.webp" alt="BraynSramosanimado" />
