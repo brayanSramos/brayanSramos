@@ -23,20 +23,15 @@ Mis lenguajes favoritos son `JavaScript`, `Python` y `PHP`, es muy importante te
 
 ```js
 const Proyectos = [
-  { name: "🌱AgroSys", url: " github.com/brayanSramos/AgroSys " },
-  { name: "📘Web Responsive Design", url: "https://responsivedesign-henna.vercel.app/" },
-  { name: "📒Sistema de reservas", url: "sistema-reservas-v1-1.vercel.app/" },
-  { name: "📓 ", url: "" },
-  { name: "🎁 ", url: "" }
+  { name: "🌱 AgroSys", url: " github.com/brayanSramos/AgroSys " },
+  { name: "📘 Web Responsive Design", url: "https://responsivedesign-henna.vercel.app/" },
+  { name: "📒 Sistema de reservas", url: "sistema-reservas-v1-1.vercel.app/" },
+  { name: "📓 Sistema-Inventario-Restaurante", url: "" },
+  { name: "💬 ChatBot con IA con whap web", url: "" },
+  { name: "📫 red social de universidades (unisical)", url: "" }
+
 ]
 ```
-- 🔭 
-- 🌱 
-- 🤔 
-- 💬 
-- 📫 
-- 😄 
-- ⚡
 
 <img width="200px" src="https://github.com/brayanSramos/brayanSramos/blob/main/logo1.3.png" align="center" alt="BraynSramosAnimacion" /> 
 
