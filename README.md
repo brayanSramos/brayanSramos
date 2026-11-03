@@ -28,7 +28,7 @@ const Proyectos = [
   { name: "📒 Sistema de reservas", url: "sistema-reservas-v1-1.vercel.app/" },
   { name: "📓 Sistema-Inventario-Restaurante", url: "" },
   { name: "💬 ChatBot con IA con whap web", url: "" },
-  { name: "📫 red social de universidades (unisical)", url: "https://unisocialapp.vercel.app/" }
+  { name: "📫 red social de universidades (unisocial)", url: "https://unisocial.pro/" }
 
 ]
 ```
